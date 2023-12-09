@@ -1,0 +1,16 @@
+/* SkipLink.css */
+.skip-link {
+  background-color: black;
+  justify-content: start;
+}
+
+.skip-link.btn.visible {
+  opacity: 1;
+}
+
+.skip-link.btn{
+  opacity: 0;
+  color: white;
+  background-color: black;
+  margin-top: 1rem;
+}

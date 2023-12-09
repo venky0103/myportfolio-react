@@ -1,0 +1,29 @@
+.about {
+  text-align: left;
+  padding: 20px;
+  border: 2px solid #fff;
+  border-radius: 10px; 
+  width: 70%;
+  margin: auto;
+background-color: gray;
+}
+
+
+
+.details{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+  width: 100%;
+  
+}
+
+.card__title{
+font-size: 2rem;
+text-align: center;
+}
+
+
+  
+
